@@ -1,0 +1,1 @@
+// const substring = string.substring(0, length);
