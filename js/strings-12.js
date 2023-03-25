@@ -1,1 +1,3 @@
-// const substring = string.substring(0, length);
+const substring = 'substring length';
+const substringSlice = substring.slice(3, 16);
+console.log(substringSlice);
